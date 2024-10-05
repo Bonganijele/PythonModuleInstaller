@@ -19,25 +19,25 @@ This tool is perfect for developers looking for an intuitive and hassle-free pac
 
 Toolbar Menu Shortcuts
 
-Maximize: Ctrl + X
-Minimize: Ctrl + N 
-Exit: Ctrl + Q
-Documentation: Ctrl + D
-Check For Updates: + Ctrl + F
-App Usage: Ctrl + G
-About: Ctrl + A 
-Settings: Ctrl + S
-Environment & Packages: Ctrl + P
-System Services: Ctrl + V
+     Maximize: Ctrl + X
+     Minimize: Ctrl + N 
+     Exit: Ctrl + Q
+     Documentation: Ctrl + D
+     Check For Updates: + Ctrl + F
+     App Usage: Ctrl + G
+     About: Ctrl + A 
+     Settings: Ctrl + S
+     Environment & Packages: Ctrl + P
+     System Services: Ctrl + V
 
 
 # Installation Shortcuts:
 
-Installing: Ctrl + I
-Unistalling: Ctrl + Y
-Update: Ctrl + U
-List all installed packages: Ctrl + L
-Cancel Ctrl + C 
+    Installing: Ctrl + I
+    Unistalling: Ctrl + Y
+    Update: Ctrl + U
+    List all installed packages: Ctrl + L
+    Cancel Ctrl + C 
 
 
 
