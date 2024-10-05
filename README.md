@@ -15,7 +15,8 @@ Key features include:
 This tool is perfect for developers looking for an intuitive and hassle-free package management solution. Please note that simulation tools are not supported.
 
 
-Keyboard Shortcuts Reference:
+# Keyboard Shortcuts Reference:
+
 Toolbar Menu Shortcuts
 
 Maximize: Ctrl + X
@@ -30,7 +31,7 @@ Environment & Packages: Ctrl + P
 System Services: Ctrl + V
 
 
-Installation Shortcuts:
+# Installation Shortcuts:
 
 Installing: Ctrl + I
 Unistalling: Ctrl + Y
